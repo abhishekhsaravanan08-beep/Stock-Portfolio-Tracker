@@ -1,0 +1,6 @@
+STOCK PORTFOLIO REPORT
+==============================
+Stock	Quantity	Price	Value
+AAPL	9		$180	$1620
+==============================
+Total Investment Value: $1620
